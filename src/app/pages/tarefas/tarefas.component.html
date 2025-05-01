@@ -1,0 +1,12 @@
+<div class="container">
+    <h2 class="mt-4">Minhas Tarefas</h2>
+  
+    <div class="card mt-3" *ngFor="let tarefa of tarefas; let i = index">
+      <div class="card-body">
+        <h5 class="card-title">{{ tarefa.titulo }}</h5>
+        <p class="card-text">Descrição: {{ tarefa.descricao }}</p>
+        <p class="card-text"><small class="text-muted">Prazo: {{ tarefa.prazo }}</small></p>
+      </div>
+    </div>
+  </div>
+  
