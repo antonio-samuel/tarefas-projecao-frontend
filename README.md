@@ -29,3 +29,6 @@ Node.js                         22.9.0
   localhost:4200/tarefas;
   localhost:4200/disciplinas;
   localhost:4200/curso.
+
+  projeto está na branch Master
+  
