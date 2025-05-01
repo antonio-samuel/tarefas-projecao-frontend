@@ -22,7 +22,7 @@ Node.js                         22.9.0
 
 4. Inicie o servidor de desenvolvimento: ng serve
 
-5.   Acesse a aplicação em: http://localhost:4200 http://localhost:4200
+5.   Acesse a aplicação em: http://localhost:4200 
 
   navbar não está funcionando, para navegar entre as páginas use: 
   localhost:4200/usuario;
